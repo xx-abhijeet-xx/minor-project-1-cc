@@ -1,7 +1,7 @@
-![MasterHead](https://www.softprodigy.com/wp-content/uploads/2021/07/full-stack-development-gif.gif)
+<img src="https://www.softprodigy.com/wp-content/uploads/2021/07/full-stack-development-gif.gif" width="100%" height="inherit"/>
 
 <h1 align="center">Hi 👋, I'm Abhijeet Verma</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">I'm a third-year college student currently honing my skills in MERN stack development. I'm now learning backend development to gain a comprehensive understanding of how web applications are built. It's an exciting journey, and I'm passionate about exploring all that full-stack development has to offer. I'm looking forward to enhancing my skills and building robust, scalable web applications that make a real difference.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **vabhijeet23@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abhijeet-verma-the-dragon-sin-of-wrath/](https://www.linkedin.com/in/abhijeet-verma-the-dragon-sin-of-wrath/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/xx-abhijeet-xx/](https://www.linkedin.com/in/xx-abhijeet-xx)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
